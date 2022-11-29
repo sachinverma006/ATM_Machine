@@ -96,12 +96,9 @@ int main()
 
 	
 	atm user1;
-	atm user2,user3,user4;
 	
 	user1.setData(12121212, "SACHIN VERMA", 1234, 100000, "9503707070");
-	user2.setData(13131313,"SHASHANK SRIVASTAVA",1234,500,"9503717171");
-	user3.setData(14141414,"ABHISHEK GUPTA",1234,10000,"9503727272");
-	user4.setData(15151515,"AMIT KUMAR",1234,40000,"9503737373");
+	
 
 
 
